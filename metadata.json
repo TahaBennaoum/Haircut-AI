@@ -1,0 +1,7 @@
+{
+  "name": "StyleCut AI",
+  "description": "AI-powered personalized hairstyle recommendations and virtual try-on using facial analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
